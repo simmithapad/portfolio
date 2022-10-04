@@ -1,4 +1,4 @@
 # portfolio
 
-Click to view Portfolio ->
+Click here to view my Portfolio ->
 https://simmithapad.github.io/portfolio/
